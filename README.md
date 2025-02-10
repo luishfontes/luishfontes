@@ -1,9 +1,8 @@
 # Luís Henrique
 
-Olá, me chamo Luís e tenho 22 anos. Sou estudante de Ciência da
-Computação em busca de uma oportunidade de estágio para aplicar
-meus conhecimentos, adquirir experiência e contribuir com
-dedicação.
+Hello, my name is Luís, and I'm a 22-year-old Computer Science
+student seeking an internship opportunity to apply my knowledge,
+gain experience, and contribute with dedication. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishfontes/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luishfontes)
@@ -12,7 +11,7 @@ dedicação.
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luishfontes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-🌱 Habilidades
+🌱 Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
